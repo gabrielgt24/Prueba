@@ -1,3 +1,7 @@
 chupiplunpor aqui podran pasar 
+<<<<<<< HEAD
 gabriel es gay
+=======
+los de cachapaadelante corren mucho y los de atras
+>>>>>>> ca6c607564a572aeb7c003ce1e190e3c052398a7
 se qhsgfydgfdgfhdfjdjhdjf
